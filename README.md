@@ -27,7 +27,7 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 
 No link abaixo, temos a demonstração de todos os códigos envolvidos neste trabalho
 
-![Explicação em vídeo](https://youtu.be/sRpfV4zCBu4?si=ZvAnVrEnONaQ-xZv)
+- [Explicação em vídeo](https://youtu.be/sRpfV4zCBu4?si=ZvAnVrEnONaQ-xZv)
 
 ## Screenshots
 

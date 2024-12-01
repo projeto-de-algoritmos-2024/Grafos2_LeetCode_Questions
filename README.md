@@ -13,9 +13,11 @@
 
 ## Questões
 
-| Matricula | Aluno |
-| --------- | ----- |
-| 1334      | Média |
+| Matricula | Aluno   |
+| --------- | ------- |
+| 1334      | Média   |
+| 1568      | Difícil |
+| 1368      | Difícil |
 
 ## Sobre
 
@@ -23,7 +25,9 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 
 ## Demonstração
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sRpfV4zCBu4?si=7P7yWUnfFHNg1llc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+No link abaixo, temos a demonstração de todos os códigos envolvidos neste trabalho
+
+![Explicação em vídeo](https://youtu.be/sRpfV4zCBu4?si=ZvAnVrEnONaQ-xZv)
 
 ## Screenshots
 

@@ -29,7 +29,17 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 
 ### 1334. Evaluate Division
 
+Utilizamos o algoritmo de Dijkstra para resolução do exercicio, que foi aprendido no módulo de grafos 2 da disciplina.
+
 - [Link no leetcode](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
+
+![1334_LeetCode](./assets/1334_1.png)
+
+![1334_LeetCode](./assets/1334_2.png)
+
+### 1568. Minimum Number of Days to Disconnect Island
+
+Utilizamos o algoritmo de componentes fortemente conectados para resolver o exercicio, que foi aprendido no módulo de grafos 2 da disciplina.
 
 ## Instalação
 
